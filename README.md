@@ -12,7 +12,7 @@ This file contains functions and utilities for processing data. It is designed t
 
 ### 2. `main_code.c`
 
-This is the main script responsible for fetching data from an API, utilizing the functions from `data_processing.py` for processing, and saving the results.
+This is the main script responsible for fetching data from an API, utilizing the functions from `data_processing.c` for processing, and saving the results.
 
 #### Dependencies:
 
