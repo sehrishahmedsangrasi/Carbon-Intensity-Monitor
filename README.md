@@ -11,6 +11,7 @@
 ## Usage
    1.Include the Header:
      Include the email_logs.h header in your main program.
+     
    2.Logging and Sending Email:
      Use the writeToLog function to log messages.
      The log_func function logs the start and end of email sending and sends an email.
@@ -28,6 +29,7 @@
    1.Compile and Run:
      Compile the C code using your preferred compiler.
      Execute the compiled binary.
+     
    2.Output:
      The program calculates the current date and the date of the day one week ago.
      It formats these dates as strings (YYYY-MM-DD).
