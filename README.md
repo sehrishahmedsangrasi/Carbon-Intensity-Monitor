@@ -24,7 +24,7 @@ This is the main script responsible for fetching data from an API, utilizing the
 
 2. Adjust the API endpoint and parameters according to your needs.
 
-3. Use the functions from `data_processing.py` to process and save the data.
+3. Use the functions from `data_processing.c` to process and save the data.
 
 4. Execute the script.
 
