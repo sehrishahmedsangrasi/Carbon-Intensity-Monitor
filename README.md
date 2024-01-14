@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project consists of two main files: one for data processing (`data_processing.c`) and another for fetching and processing data from an API (`main_code.c`). The purpose of this project is to provide a framework for retrieving data from an API, processing it, and saving the results for further analysis.
+This Branch consists of two main files: one for data processing (`data_processing.c`) and another for fetching and processing data from an API (`main_code.c`). The purpose of this project is to provide a framework for retrieving data from an API, processing it, and saving the results for further analysis.
 
 ## Files
 
