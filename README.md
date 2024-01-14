@@ -1,3 +1,7 @@
+## Integration of Email Logs and Weekly Data Processing
+## overview
+The project integrates two key components, email_logs.h that facilitates logging and Gmail-based communication, utilizing gmail.h, while weekly_data.c calculates date ranges for querying carbon intensity data. 
+
 ## Files
 ## 1. email_logs.h
 ## Overview
