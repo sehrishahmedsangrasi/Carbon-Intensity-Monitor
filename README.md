@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project includes a shell script (`automation.sh`) that automates specific tasks and sends an email using the SMTP server. The script can be scheduled to run periodically to automate routine processes and keep you informed about the execution status.
+This branch includes a shell script (`automation.sh`) that automates specific tasks and sends an email using the SMTP server. The script can be scheduled to run periodically to automate routine processes and keep you informed about the execution status.
 
 ## Files
 
