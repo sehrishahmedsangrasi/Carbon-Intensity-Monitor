@@ -2,7 +2,9 @@
 # 🛰️ Carbon Intensity Monitoring & Alerting System
 
 **Language:** C
+
 **Libraries:** libcurl, JSON
+
 **Automation Tools:** Cron, SMTP
 **Platform:** Linux
 
