@@ -6,6 +6,7 @@
 **Libraries:** libcurl, JSON
 
 **Automation Tools:** Cron, SMTP
+
 **Platform:** Linux
 
 ---
@@ -195,9 +196,12 @@ carbon-intensity-monitor/
 
 ## 💡 Project Members:
 
-**Sehrish Ahmed Sangrasi**
-**Laiba Mushtaq**
-**Hiba Fatima**
+**1.Sehrish Ahmed Sangrasi**
+
+**2.Laiba Mushtaq**
+
+**3.Hiba Fatima**
+
 *Computer Systems Engineering, NED University of Engineering & Technology*
 
 ---
