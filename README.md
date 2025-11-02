@@ -156,14 +156,18 @@ Add the following lines:
 ### ✅ Terminal Output
 
 Displays real-time fetched data, calculated statistics, and execution logs.
+<img width="578" height="536" alt="image" src="https://github.com/user-attachments/assets/47e835df-efb2-44b1-bedc-74a329c31822" />
 
 ### 🧾 Weekly Report
 
 Includes average, median, and standard deviation of carbon intensity values.
+<img width="573" height="573" alt="image" src="https://github.com/user-attachments/assets/efdc679d-40a0-49a9-aa8b-8a9d91a05d70" />
 
 ### 📧 Email Notification
 
 Automatically sends threshold alerts with detailed metric summaries to configured recipients.
+<img width="565" height="533" alt="image" src="https://github.com/user-attachments/assets/0ece7cbc-32a4-4034-9d93-5582de9173e6" />
+
 
 ---
 
